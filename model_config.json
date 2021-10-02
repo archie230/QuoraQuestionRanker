@@ -1,0 +1,1 @@
+{"min_token_occurancies": 1, "random_seed": 42, "emb_rand_uni_bound": 0.2, "freeze_knrm_embeddings": true, "knrm_kernel_num": 21, "knrm_out_mlp": [], "dataloader_bs": 1024, "train_lr": 0.02, "change_train_loader_ep": 10, "n_epochs": 20, "emb_size": 50}

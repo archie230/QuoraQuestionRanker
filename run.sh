@@ -1,0 +1,1 @@
+FLASK_APP=flask_api.py FLASK_DEBUG=1 EMB_PATH_KNRM="model_state/emb_path_knrm.pth" MLP_PATH="model_state/knrm.pth" VOCAB_PATH="model_state/vocab_path.json" EMB_PATH_GLOVE="data/glove.6B.50d.txt" flask run --port 11000
