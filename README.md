@@ -17,7 +17,7 @@ Each question in index represented as weighted mean of word glove embeddings wit
 ##### 1. Install requirements:
   - clone repo
   - download [data](https://drive.google.com/drive/folders/11cuWJFmgHkMu56rhuVYy5NoW_LYZ0Aqj?usp=sharing) to repo folder
-  - `$ pip install requirements.txt`
+  - `$ pip install -r requirements.txt`
 ##### 2*. Train model (it takes about 20 min, also it is not necessarily, pretrained weights are already in model_state folder)
 - `$ python train_model.py` in case if you want to train model by yourself (it takes about 20 min)
 ##### 3. Run flask server:
